@@ -1,0 +1,63 @@
+.nav-link:hover{
+	background-color: #a0b0b0;
+
+}
+.nav-link{
+	margin-right:15px;
+
+}
+.navbar{
+	background-color: #d2e1ec; 
+	font-weight:bold;
+}
+.jumbotron {
+	background-image: url("../img/background.jpg");
+	color:#ffffff;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	min-height: 100vh;
+	overflow: hidden;
+
+
+}
+section {
+	padding-top: 4rem;
+}
+header .display-1, header .display-4{
+	font-weight: bold;
+	text-shadow: 3px 3px #000000;
+}
+header .lead{
+	font-weight: bold;
+	text-shadow: 3px 2px #000000;
+}
+header .container p{
+	text-transform: uppercase;
+}
+.carousel-inner img {
+     width: 100%;
+
+}
+footer{
+	background-color: #d2e1ec;
+	line-height:60px;
+	margin: auto;
+}
+h2{
+	margin-bottom: 70px;
+}
+
+.fa{
+	margin-right:10px;
+}
+.row p{
+	text-align: justify;
+}
+#section-ludzie img{
+	width:250px;
+
+}
+#formularz{
+	margin-bottom: 30px;
+}
